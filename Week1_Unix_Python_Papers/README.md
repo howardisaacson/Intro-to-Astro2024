@@ -1,6 +1,5 @@
-## First Meeting: June 12th, 2023: 5:00pm Pacific Daylight Time (UT-7).
+## First Meeting: July 1st, 2024: 5:00pm Pacific Daylight Time (UT-7).
 
-Youtube Recordings: [https://www.youtube.com/playlist?list=PLCNcoalRndQxA9bajziv-t6naxIlSy_ah]
 
 ## Agenda:
 * Introductions
@@ -9,14 +8,6 @@ Youtube Recordings: [https://www.youtube.com/playlist?list=PLCNcoalRndQxA9bajziv
 
 * Overleaf.com, and kaggle.com will be discussed in later weeks.
 
-
-## Announcement about Piazza:
-* [Piazza](https://piazza.com/) is a free service for students to communicate with instructors and with each other.
-* You can join our class page at [this link](https://piazza.com/intro_to_astro/summer2023/2023) and with the access code 2023.
-* If you have questions about assignments, readings, etc. (either logisitical or technical), please post them on Piazza.
-* There is an option to post anonymously.
-* We will periodicially ask you to post questions, reply to other students' questions, etc. on Piazza.
-* Make sure you familiarize yourself with the Piazza platform this week.
 
 ## Assignments for Week 1
 
@@ -64,10 +55,10 @@ Deliverable:
 
 ### Paper of the week: Assignment 4) Read this exoplanet review paper:
 
-* Exoplanets Review by Lee (2018). (https://arxiv.org/abs/1804.08907 link also in Google Drive)
+* Exoplanets Review by Lee (2018). (https://arxiv.org/abs/1804.08907)
 * Read the paper, and save a list of questions you may have.
 * Read the paper again a few days later, and revisit your list of questions
-* Post at least one question on Piazza, and respond to at least one of your classmates' questions.
+* Post at least one question on Discord, and respond to at least one of your classmates' questions.
 
 
 
