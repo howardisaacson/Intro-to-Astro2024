@@ -26,10 +26,10 @@ For your assignment this week, please read the paper of the week thoroughly. Try
 
 Highlight words you don't know in one color. Look up their definitions and write them down as in-text notes as you read.
 Highlight key ideas in another color.
-#Keep a general note with summaries of each paragraph
-#Keep a general note with summaries of each section
-#Keep a note with 10-word or less summaries of each figure
-#Keep a note with overall questions you have about the paper. Some of these you may resolve as you read-- once you've finished reading the paper, revisit this note and see how many of your own questions you can answer!
+# Keep a general note with summaries of each paragraph
+# Keep a general note with summaries of each section
+# Keep a note with 10-word or less summaries of each figure
+# Keep a note with overall questions you have about the paper. Some of these you may resolve as you read-- once you've finished reading the paper, revisit this note and see how many of your own questions you can answer!
 For more on how to effectively read a science paper, see the advice on astrobites, an website of astronomy- and academia-related articles run by astronomers and students:
 
 https://astrobites.org/2011/04/19/journal-articles-in-astronomy/
