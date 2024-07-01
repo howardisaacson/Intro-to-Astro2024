@@ -22,10 +22,10 @@ Mendeley allows you to download papers and keep them stored in a single, organiz
 
 ## Closely Reading Science Papers:
 
-For your assignment this week, please read the paper of the week thoroughly (Lee (2018). https://arxiv.org/abs/1804.08907). Try to observe the following note-taking strategy (or use something similar that works for you!):
+For your assignment this week, please read the paper of the week thoroughly (Lee, 2018  https://arxiv.org/abs/1804.08907). Try to observe the following note-taking strategy (or use something similar that works for you!):
 
-Highlight words you don't know in one color. Look up their definitions and write them down as in-text notes as you read.
-Highlight key ideas in another color.
+- Highlight words you don't know in one color. Look up their definitions and write them down as in-text notes as you read.
+- Highlight key ideas in another color.
 - Keep a general note with summaries of each paragraph
 - Keep a general note with summaries of each section
 - Keep a note with 10-word or less summaries of each figure
