@@ -51,7 +51,7 @@ get started.
 http://swcarpentry.github.io/python-novice-inflammation/
 
 Deliverable:
-   Save each of the plots that you create with the tutorial and save them in your google drive folder.
+   Save each of the plots that you create with the tutorial and post them on Discord
 
 ### Paper of the week: Assignment 4) Read this exoplanet review paper:
 
