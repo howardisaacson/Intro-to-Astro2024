@@ -1,4 +1,0 @@
-
-Python Tutorial.ipynb
-Python and Jupyter Intro.ipynb
-Unix_Git_Tutorial.ipynb
