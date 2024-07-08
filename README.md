@@ -5,8 +5,11 @@
 
 ## Course Website: [Link](https://sites.google.com/view/intro-2-astro)
 
-### Enrollment for the 2024 course is now open for students [here](https://docs.google.com/forms/d/1dKbhgDU1bAWWnbv4XveYk4fIKCawatLnW8mg1yLli58/edit?usp=drive_web)
-### Interested mentors can fill up this [form](https://docs.google.com/forms/d/e/1FAIpQLScluDhVd9MGcx2OUu73DXewXJ36aCy_GYFKeESku2nVH5MYDg/viewform?usp=pp_url)
+Registrations have been closed for 2024.
+
+Participants for the 2024 workshop - if you haven't received an email yet, please check your spam folder. If you still cannot find the required details, please reach out to the organizers
+
+Recordings for the course will be uploaded on YouTube: [2024 Playlist](https://www.youtube.com/playlist?list=PLCNcoalRndQy6Q4BNNaJEl_FU2PkYudn2)
 
 ## About the Course
 Intro2Astro is an introductory 8-week cost-free online course targeted at aspiring students, researchers, and enthusiasts to step foot in the world of astronomy research. This is the 7th year and iteration of the course dedicated to acquainting students, particularly those from communities with fewer astronomy resources, with the basic tools that astronomers need in their research, and the skills they need in order to gain entry into a more formal research project. With exposure and eventual mastering of the skills taught through the course, students will be better prepared to begin research projects either during the semester or over the summer. Combining coding skills with soft skills such as web development, scientific paper reading, and CV creation can give students an edge when applying for formal research internships.
