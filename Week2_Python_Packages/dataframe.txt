@@ -1,6 +1,6 @@
-qnamesqcountqpercentage
-0qLiamq19837q0.0102
-1qEmmaq18688q0.0101
-2qNoahq18267q0.0097
-3qOliviaq17921q0.0095
-4qAvaq14924q0.0081
+	names	count	percentage
+0	Liam	19837	0.0102
+1	Emma	18688	0.0101
+2	Noah	18267	0.0097
+3	Olivia	17921	0.0095
+4	Ava	14924	0.0081
