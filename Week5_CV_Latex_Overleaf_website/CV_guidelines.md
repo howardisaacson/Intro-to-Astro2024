@@ -1,5 +1,5 @@
 # Making a Curriculum Vitae #
-by: Isabel Angelo (2020) with updates by Jack Lubin (2021)
+by: Isabel Angelo (2020) with updates by Jack Lubin (2021) and Yaguang Li (2024)
 
 For this week's assignment, we are going to create our own academic curriculum vitae, or CV.
 
@@ -51,4 +51,12 @@ you may also want to describe any major skills you used (adapting code for super
 
 *2. Look at other CV's for examples.* Go onto websites of people in your field and look at their CV's (see this week's README for examples). This can give you ideas for what categories to use and what a good CV can look like.
 
-*3. Put your best accomplishments at the top!* Most of the time education and research are the first categories in a CV, but after that it is more open-ended. If you are particularly proud of your teaching experience or awards, don't be afraid to put that where the reader can see it.
+*3. Tailor to your career stage.* Undergraduates: major, grades/GPA, honors, universities, research programs, internships, awards, conferences/talks/posters. Graduate Students: + publications. Postdocs: + more publications, evidence for independent research. Faculty: + student supervision, grant, proposals, committee, outreach, management skills.
+
+*4. Put your best accomplishments at the top!* Most of the time education and research are the first categories in a CV, but after that it is more open-ended. If you are particularly proud of your teaching experience or awards, don't be afraid to put that where the reader can see it. Employers may have limited time to review your CV, so ensure your most impressive accomplishments are easily visible.
+
+*5.	Customize for each application.* : Whenever possible, tailor your CV to align with the specific institute you are applying. Is it a observing or theoretical focused institute? What qualities and skills are they seeking in applicants?
+
+*6. Seek feedback.* Have a friend/advisor/mentor review your essays (CV, statements, cover letters, websites). Their feedback can offer different perspectives, often valuable.
+
+*7.	Remember, your CV is not everything.* It is okay to be unique. It is ok to have non-traditional background. It is ok to have failures. After reviewing others' CVs, reflect on your own accomplishments. If you have a strong list, great and congrats! If not, understand that career paths vary widely. Stay open-minded, have a growth mindset, and keep exploring opportunities. If you find a promising path, pursue it diligently and strive for excellence - it will pay off in the long run.
