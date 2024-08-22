@@ -53,6 +53,7 @@ reinforce some of the features we discussed this week and learn about concepts w
 * Read the paper again a few days later, and revisit your list of questions
 * Post at least one question on Discord, and respond to at least one of your classmates' questions.
 * Link for [How to read scientific papers](https://github.com/howardisaacson/Intro-to-Astro2024/blob/main/Week1_Unix_Git_Papers/how_to_read_scientific_papers.md)
+* In case the Figure on Page 6 does not render properly on your machine, you can refer to this [link](https://github.com/user-attachments/files/16120759/Lee-2018-Exoplanets-Fig1.pdf)
 
 
 
