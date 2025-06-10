@@ -19,7 +19,7 @@ Zoom channel see Discord or google group
 
 
 
-## Assignments for this Week:
+## Assignments for this Week: 
 
 ### I Paper of the week:
 Paper on a the planetary systems around Proxima Centauri: https://www.pnas.org/doi/pdf/10.1073/pnas.1706680114
